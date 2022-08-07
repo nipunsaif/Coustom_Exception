@@ -1,4 +1,4 @@
-#Real Life Senario of Custom Exception in Java     
+# Real Life Senario of Custom Exception in Java     
 
 Introduction:
 
