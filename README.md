@@ -1,6 +1,6 @@
 # A Real Life Scenario of Custom Exception in Java     
 
-Introduction:
+Abstract:
 
   World’s most popular giant tech company “Google” have published their recruitment event for Senior Software Engineer in Cloud Computing. To find out real applicants, they have to make an application management system which can detect exceptions of the application. If there any exception occurred during the registration, the program will monitor and handle the exception, for further process. Based on that, it will say the application status of the applicant. The company has set some minimum qualification to verify the applicants. These are-
 
