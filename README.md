@@ -7,14 +7,17 @@ Abstract:
 
 Minimum qualifications:
 
-• Bachelor's degree in Computer Science, related technical field, or equivalent practical experience. • Experience in software development, using one or more general purpose programming languages (e.g., C/C++, Java, Python, JavaScript, C#, Go, Objective-C). • Experience in technical leadership, leading project teams, and setting technical direction. • Experience architecting and developing distributed systems.
+• Bachelor's degree in Computer Science, related technical field, or equivalent practical experience. 
+• Experience in software development, using one or more general purpose programming languages (e.g., C/C++, Java, Python, JavaScript, C#, Go,     Objective-C). 
+• Experience in technical leadership, leading project teams, and setting technical direction. • Experience architecting and developing           distributed systems.
 
 
 
 Preferred qualifications:
 
 
-• Master's degree or PhD in Engineering, Computer Science, or related technical field. • Experience working with one or more from the following: Infrastructure, Machine Learning, mobile application development, embedded systems, front end development, security, and/or privacy.
+• Master's degree or PhD in Engineering, Computer Science, or related technical field.
+• Experience working with one or more from the following: Infrastructure, Machine Learning, mobile application development, embedded systems,     front end development, security, and/or privacy.
 • Ability and interest to learn other coding languages as need
 
 
