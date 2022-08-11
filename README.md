@@ -1,4 +1,4 @@
-# A Real Life Scenario of Custom Exception in Java     
+# A Real Life Scenario of Custom Exception Handling in Java     
 
 Abstract:
 
