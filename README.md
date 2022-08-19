@@ -6,7 +6,7 @@ World’s popular giant tech company “Google” have published their recruitme
 
 # Methodology
 
-Custom Exception Handling in the system are
+Custom Exception that are handled in the system are,
 * ### ExpertiseException
   If the applicant does not have any expertise in Software Development, Data Structure and Algorithm, and Technical Leadership, then it will     generate this exception.
 
