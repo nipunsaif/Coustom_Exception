@@ -8,17 +8,17 @@ World’s popular giant tech company “Google” have published their recruitme
 
 Custom Exception that are handled in the system are,
 * ### ExpertiseException
-  If the applicant does not have any expertise in Software Development, Data Structure and Algorithm, and Technical Leadership, then it will     generate this exception.
+      If the applicant does not have any expertise in Software Development, Data Structure and Algorithm, and Technical Leadership, then it           will generate this exception.
 
 * ### AcademicQualificationException
-  If the applicant does not have complete their Degree in Bachelors, Masters or PhD and the Graduation, Expected Graduation, or PhD complete     year is 2023 or before that, then this exception will occur.   
+      If the applicant does not have complete their Degree in Bachelors, Masters or PhD and the Graduation, Expected Graduation, or PhD               complete year is 2023 or before that, then this exception will occur.   
 
 *	### ExperienceException
-    If the applicant does not have the particular year of experience in the field, then this exception will occur.   
+      If the applicant does not have the particular year of experience in the field, then this exception will occur.   
 
 *	### AgeException
-    The Applicant need to be an adult. If the applicants age is below 18 years, then this exception will occur.
+      The Applicant need to be an adult. If the applicants age is below 18 years, then this exception will occur.
 
 * ### EnglishFluncyException
-   Applicant need to be fluent in English. If the applicant is not fluent in English, then this exception will occur.
+      Applicant need to be fluent in English. If the applicant is not fluent in English, then this exception will occur.
 
