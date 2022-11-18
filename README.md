@@ -7,18 +7,18 @@ World’s popular giant tech company “Google” have published their recruitme
 # Methodology
 
 Custom Exception that are handled in the system are,
-* ### ExpertiseException
+* ### Expertise Exception
   If the applicant does not have any expertise in Software Development, Data Structure and Algorithm, and Technical Leadership, then it will     generate this exception.
 
-* ### AcademicQualificationException
+* ### Academic Qualification Exception
   If the applicant does not have complete their Degree in Bachelors, Masters or PhD and the Graduation, Expected Graduation, or PhD complete     year is 2023 or before that, then this exception will occur.   
 
-*	### ExperienceException
+*	### Experience Exception
     If the applicant does not have the particular year of experience in the field, then this exception will occur.   
 
-*	### AgeException
+*	### Age Exception
     The Applicant need to be an adult. If the applicants age is below 18 years, then this exception will occur.
 
-* ### EnglishFluncyException
+* ### English Fluncy Exception
    Applicant need to be fluent in English. If the applicant is not fluent in English, then this exception will occur.
 
