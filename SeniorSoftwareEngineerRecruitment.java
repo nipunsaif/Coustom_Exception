@@ -26,8 +26,6 @@ class AgeException extends Exception
 }
 
 
-
-
 class ExperienceException extends Exception 
 {
     public  ExperienceException(String str)
@@ -43,8 +41,6 @@ class EnglishFluencyException extends Exception
         super(str);
     }
 }
-
-
 
 
 public class SeniorSoftwareEngineerRecruitment
@@ -218,10 +214,3 @@ public static void main(String args[])
     }
     
  }
-
-
-
-
-       
-    
-
