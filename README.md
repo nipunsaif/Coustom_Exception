@@ -1,4 +1,4 @@
-# A Real Life Scenario of Custom Exception Handling  
+# Real Life Scenario of Custom Exception Handling  
 
 # Abstract
 
